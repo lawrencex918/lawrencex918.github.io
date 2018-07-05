@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sample Post
-date: 2016-02-15T06:32:24.000Z
+date: 'Thu Jul 05 2018 16:22:37 GMT+0800'
 published: true
 tags: 博客配置
 ---
@@ -25,3 +25,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+![imag](http://img5.imgtn.bdimg.com/it/u=3485884547,2299761640&fm=27&gp=0.jpg)
