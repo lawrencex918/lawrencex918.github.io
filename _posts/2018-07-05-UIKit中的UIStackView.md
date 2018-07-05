@@ -2,6 +2,7 @@
 published: true
 tags: iOS
 date: 'Thu Jul 05 2018 21:34:17 GMT+0800'
+title: UIKit中的UIStackView
 ---
 > UIStackView是从iOS9开始支持的一种Container View，用于解决弹性布局问题。
 
