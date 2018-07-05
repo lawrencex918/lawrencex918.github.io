@@ -26,3 +26,6 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 ![imag](http://img5.imgtn.bdimg.com/it/u=3485884547,2299761640&fm=27&gp=0.jpg)
+
+## 麻烦
+jerkll比较麻烦的就是每次提交都需要确保date这个数据没有问题，否则不能正常生成索引。
