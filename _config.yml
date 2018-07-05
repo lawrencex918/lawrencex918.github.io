@@ -9,7 +9,6 @@ url: "http://vno.onevcat.com"
 
 permalink: /:year/:month/:title/
 
-exclude: [vendor]
 # Format
 highlighter: rouge
 
@@ -48,3 +47,5 @@ social:
 ga:
     # id: your_ga_id
     # host: your_host
+
+exclude: [vendor]
