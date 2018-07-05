@@ -49,3 +49,4 @@ ga:
     # host: your_host
 
 exclude: [vendor]
+timezone: Asia/Shanghai
