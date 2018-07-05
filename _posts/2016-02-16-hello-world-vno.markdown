@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World - Vno
-date: {}
+date: 2016-02-17T06:32:24.000Z
 published: true
 ---
 
