@@ -9,6 +9,7 @@ url: "http://vno.onevcat.com"
 
 permalink: /:year/:month/:title/
 
+exclude: [vendor]
 # Format
 highlighter: rouge
 

@@ -17,6 +17,13 @@ $ bundler install
 $ bundler exec jekyll serve
 ```
 
+```json
+{
+    'key':'hello,world'
+    'back':'bye'
+}
+```
+
 Your site with `Vno Jekyll` enabled should be accessible in http://127.0.0.1:4000.
 
 For more information about Jekyll, please visit [Jekyll's site](http://jekyllrb.com).
