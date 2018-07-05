@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Hello World - Vno
-date: 2016-02-16 15:32:24.000000000 +09:00
+date: {}
+published: true
 ---
 
 #### What's this
@@ -15,6 +16,21 @@ $ git clone https://github.com/onevcat/vno-jekyll.git your_site
 $ cd your_site
 $ bundler install
 $ bundler exec jekyll serve
+```
+
+```objc
+- (void)viewDidLoad {
+    [super viewDidLoad];
+    [self.view addSubview:self.tableView];
+}
+```
+
+```JS
+var this = new Object()
+```
+
+```swift
+var str = 'String'
 ```
 
 Your site with `Vno Jekyll` enabled should be accessible in http://127.0.0.1:4000.
