@@ -18,21 +18,6 @@ $ bundler install
 $ bundler exec jekyll serve
 ```
 
-```objc
-- (void)viewDidLoad {
-    [super viewDidLoad];
-    [self.view addSubview:self.tableView];
-}
-```
-
-```JS
-var this = new Object()
-```
-
-```swift
-var str = 'String'
-```
-
 Your site with `Vno Jekyll` enabled should be accessible in http://127.0.0.1:4000.
 
 For more information about Jekyll, please visit [Jekyll's site](http://jekyllrb.com).
