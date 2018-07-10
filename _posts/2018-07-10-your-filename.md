@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: iOS
 title: iOS中图片解码、缓存的时机
 date: 'Tue Jul 10 2018 14:36:43 GMT+0800'
@@ -47,4 +47,3 @@ kCGImageSourceShouldCache这个枚举在64位架构（截止到目前市面上�
 网上很多文章对解码和缓存的解释都不是很明确，而且各种重复的转载，
 [iOS处理图片的一些小Tips](https://blog.ibireme.com/2015/11/02/ios_image_tips/)
 [iOS中的imageIO与image解码](http://ios.jobbole.com/87233/)
-
